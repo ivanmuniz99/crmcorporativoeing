@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+
+# Build
+.svelte-kit/
+build/
+dist/
+.vercel/
+
+# Variables de entorno (NUNCA subir secretos)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Supabase local
+supabase/.branches/
+supabase/.temp/

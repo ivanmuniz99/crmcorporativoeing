@@ -1,0 +1,14 @@
+[
+{"pipeline_id":"14f958e7-7032-445f-82ba-53491467c123","name":"Contacto inicial","position":1,"probability":10},
+{"pipeline_id":"14f958e7-7032-445f-82ba-53491467c123","name":"Calificación","position":2,"probability":25},
+{"pipeline_id":"14f958e7-7032-445f-82ba-53491467c123","name":"Propuesta enviada","position":3,"probability":50},
+{"pipeline_id":"14f958e7-7032-445f-82ba-53491467c123","name":"Negociación","position":4,"probability":75},
+{"pipeline_id":"14f958e7-7032-445f-82ba-53491467c123","name":"Cierre ganado","position":5,"probability":100,"is_won_stage":true},
+{"pipeline_id":"14f958e7-7032-445f-82ba-53491467c123","name":"Cierre perdido","position":6,"probability":0,"is_lost_stage":true},
+{"pipeline_id":"e9c57d6a-e61f-49ed-b892-b4035a3204b9","name":"Prospección Partner","position":1,"probability":10},
+{"pipeline_id":"e9c57d6a-e61f-49ed-b892-b4035a3204b9","name":"Presentación al cliente","position":2,"probability":30},
+{"pipeline_id":"e9c57d6a-e61f-49ed-b892-b4035a3204b9","name":"Propuesta conjunta","position":3,"probability":55},
+{"pipeline_id":"e9c57d6a-e61f-49ed-b892-b4035a3204b9","name":"Negociación","position":4,"probability":75},
+{"pipeline_id":"e9c57d6a-e61f-49ed-b892-b4035a3204b9","name":"Cierre ganado","position":5,"probability":100,"is_won_stage":true},
+{"pipeline_id":"e9c57d6a-e61f-49ed-b892-b4035a3204b9","name":"Cierre perdido","position":6,"probability":0,"is_lost_stage":true}
+]
